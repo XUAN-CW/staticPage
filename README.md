@@ -8,6 +8,10 @@
 
 ### 访问页面
 
+## 直接使用
+
 ## 参考
+
+https://xuan-cw.github.io/staticPage/myBaidu.html
 
 [用github来展示你的前端静态页面](https://www.cnblogs.com/qianmojing/p/6484162.html)
